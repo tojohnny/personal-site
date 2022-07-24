@@ -1,2 +1,2 @@
 # personal-site
-Untypical.
+Untypical personal site.
