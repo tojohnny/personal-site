@@ -1,16 +1,24 @@
 ﻿body {
-    background-color: #DCD7C9;
+    background-color: #F0EBE3;
 }
 
-hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: #A27B5C;
-    border-width: 6px;
-    width: 5%;
+.johnny {
+    
 }
 
-h1, h2, h3 {
-    color: #3F4E4F;
+.irresoluteduck {
+    width: 180px;
 }
 
+/************************************************************************************* CONTAINERS ********************************************************************************/
+.top-container {
+    margin: 100px;
+}
+
+.middle-container {
+    background-color: #E4DCCF;
+}
+
+.bottom-container {
+    background-color: #7D9D9C;
+}
