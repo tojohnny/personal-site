@@ -1,13 +1,41 @@
 ﻿body {
     background-color: #F0EBE3;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.introduction-header {
+    font-family: 'Indie Flower', cursive;
+}
+
+.description-header {
+    font-family: Inconsolata;
+}
+
+/*************************************************************************************** IMAGES **********************************************************************************/
+.irresoluteduck {
+    width: 180px;
 }
 
 .johnny {
-    
 }
 
-.irresoluteduck {
+.social-media {
     width: 180px;
+}
+
+.youtube-icon {
+    width: 90px;
+    margin: 10px;
+}
+
+.linkedin-icon {
+    width: 90px;
+    margin: 10px;
 }
 
 /************************************************************************************* CONTAINERS ********************************************************************************/
@@ -15,10 +43,10 @@
     margin: 100px;
 }
 
-.middle-container {
-    background-color: #E4DCCF;
+.whoiam-container {
+    margin: 100px;
 }
 
-.bottom-container {
-    background-color: #7D9D9C;
+.socials-container {
+    margin: 100px;
 }
