@@ -1,19 +1,25 @@
-﻿body {
+﻿/*************************************************************************************** GLOBAL **********************************************************************************/
+body {
+    margin: 0px;
     background-color: #F0EBE3;
     text-align: center;
     font-family: Arial;
 }
 
 h1 {
-    font-size: 48px;
-}
-
-.introduction-header {
+    font-size: 3rem;
     font-family: 'Indie Flower', cursive;
+    color: #7D9D9C;
 }
 
-.description-header {
+p {
+    color: #576F72;
+    font-size: 1.25rem;
     font-family: Inconsolata;
+}
+
+hr {
+    width: 30%;
 }
 
 /*************************************************************************************** IMAGES **********************************************************************************/
@@ -21,40 +27,23 @@ h1 {
     width: 180px;
 }
 
-.johnny {
-}
-
 .social-media {
     width: 180px;
 }
 
-.youtube-icon {
-    width: 90px;
-    margin: 10px;
-}
-
-.linkedin-icon {
-    width: 90px;
-    margin: 10px;
-}
-
-.github-icon {
-    width: 90px;
-    margin: 10px;
-}
-
-.twitter-icon {
+.social-icons {
     width: 90px;
     margin: 10px;
 }
 
 /************************************************************************************* CONTAINERS ********************************************************************************/
-.top-container {
+.whoiam-container {
     margin: 100px;
 }
 
-.whoiam-container {
-    margin: 100px;
+.contentcreator-container {
+    background-color: #E4DCCF;
+    padding: 20px;
 }
 
 .socials-container {
